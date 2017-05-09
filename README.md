@@ -3,6 +3,7 @@
 [My Resume](https://github.com/goldenrooster/goldenrooster.github.io/edit/master/MyResume.html)
 
 [My Projects](https://github.com/goldenrooster/goldenrooster.github.io/edit/master/MyProjects.html)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
