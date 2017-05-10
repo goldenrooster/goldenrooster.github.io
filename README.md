@@ -1,3 +1,3 @@
-# Ingenuity Design Lab </br>
-## Service </br>
-## About </br>
+# Ingenuity Design Lab
+## Service
+## About
