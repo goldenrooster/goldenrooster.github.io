@@ -1,0 +1,21 @@
+header { 
+    display:block;
+    /* Padding Top, Right, Bottom, Left */
+    padding: 0px 0px 0px 0px;
+}
+
+/* Treat the nav tag as a block element */
+#horzNav { 
+    display:block;
+    /* Padding Top, Right, Bottom, Left */
+    padding: 0px 20px 0px 5px;
+    height: 18px;
+    background: blue;
+}
+
+/* Remove underlines from links in the nav element */
+#horzNav a {
+    text-decoration: none;
+    padding: 0px 50px 0px 50px;
+    color: white;
+}
